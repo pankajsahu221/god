@@ -25,7 +25,7 @@ int romanToInt(string s)
                                    { 'C' , 100 },
                                    { 'D' , 500 },
                                    { 'M' , 1000 } };
-                                   
+   A demo code for hacktoberfest                               
    int sum = T[s.back()];
    for (int i = s.length() - 2; i >= 0; --i) 
    {
